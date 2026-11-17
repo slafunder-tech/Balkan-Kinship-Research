@@ -31,3 +31,31 @@
 ## Как обновлять каталог
 
 Для каждого нового ресурса указывать URL, владельца/хранителя, тип коллекции, географический и временной охват, реальный уровень доступа (описание/индекс/цифровой образ/читальный зал), правовые ограничения и дату проверки. Не добавлять ссылки только по поисковому сниппету; открывать сам ресурс и, по возможности, соответствующий finding aid.
+
+
+## Дополнительно проверенные коллекции и маршруты (17.11.2026)
+
+### Греция
+- Greek Ancestry — коллекции избирательных списков, мужских регистров, справочников и реестров беженцев из Малой Азии: https://greekancestry.net/collections/ . Частный индексный ресурс; coverage varies by locality; индекс не заменяет оригинал.
+- Greek Family History (Newcastle) — описание муниципальных/семейных реестров, мужских регистров, гражданских и церковных записей: https://apps.ncl.ac.uk/GreekFamilyHistory/Page/About и https://apps.ncl.ac.uk/GreekFamilyHistory/Page/Links . Исследовательский guide, не архивный хранитель.
+- Institute for Mediterranean Studies (IMS) — выбранные муниципальные списки, переписи, избирательные и налоговые реестры, материалы беженцев; среди прочего опубликована база Varna Parish Registers 1887–1905: https://ims.forth.gr/en/page/view?id=56 . По Варне требуется отдельно установить происхождение записей и хранителя оригинала.
+- Foundation of the Hellenic World — genealogy/oral history, материалы по беженцам Малой Азии, Чёрного моря, Фракии и Константинополя: https://www.ime.gr/depts/genealogy/index.php?lang_id=en&sid=1&view=page . Устные свидетельства атрибутировать информанту и не считать автоматическим документальным подтверждением.
+
+### Болгария
+- Академическая публикация о регистрации болгарской экзархийской общины Салоник в 1907 году: https://www.solunbg.org/images/2020/Izvestia_na_Darjavnite_Arhivi-T-115-16-2018-c330-509.pdf . Описывает конкретный корпус, не всё население города и не все конфессиональные группы. Требуется сверять архивный шифр и оригинал.
+- State Archives Agency: https://archives.government.bg/ . Проверять актуальную доступность каталога и региональных услуг непосредственно перед поиском.
+
+### Турция и Османская империя
+- Nüfus ve Vatandaşlık İşleri (NVI), архивные FAQ: https://www.nvi.gov.tr/sss-arsiv-hizmetleri . Описывает Atik Nüfus Kütükleri (с 1883), семейные регистры 1904 года и event registers; доступ ограничен правилами родства и подтверждения полномочий.
+- e-Devlet Alt-Üst Soy Bilgisi: https://www.turkiye.gov.tr/nvi-alt-ust-soy-bilgisi-sorgulama . Требует аутентифицированного доступа и соответствующей eligibility; не обещать пользователю доступ без проверки.
+- Devlet Arşivleri research rules: https://www.devletarsivleri.gov.tr/Sayfalar/Sayfa.aspx?h=E82E2E152A0EDDCEBACD12E4FD6194A33830B07932BDA84FE10AA35AE29E62D3&icerik=1045 ; online catalogue: https://katalog.devletarsivleri.gov.tr/ . Каталожная запись и предварительный образ не гарантируют полный цифровой документ.
+- Türk Tarih Kurumu archive: https://ttk.gov.tr/en/arsiv/ . Дополнительный каталог документов, фотографий и периодики позднеосманского и республиканского периодов.
+
+## Операционные справочники репозитория
+
+- `references/research-ledger.md` — схема людей, событий, источников, утверждений, связей и журнала поиска.
+- `references/tree-building-protocol.md` — пошаговое построение всех ветвей и правила остановки.
+- `references/greek-collections.md`, `references/bulgarian-collections.md`, `references/turkish-ottoman-collections.md` — региональные маршруты.
+- `references/multilingual-search-cookbook.md` — шаблоны запросов на разных языках и письменностях.
+
+Проверка ссылки и описания коллекции не подтверждает, что нужный человек есть в фонде. Перед каждым конкретным запросом повторно проверять актуальность, покрытие, правила доступа и точный архивный локатор.
